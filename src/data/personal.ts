@@ -11,7 +11,7 @@ export const PERSONAL_INFO = {
         { icon: "/icons/skills/goal-oriented.svg", label: "Goal Oriented" },
     ],
     heroDescription: "I am a young and curious student who is interested in learning and exploring new fields to challenge myself and grow as a developer. ",
-    resumeUrl: "/newest-CV.pdf",
+    resumeUrl: "/TheVinhResume - LateX.pdf",
     socialLinks: [
         {
             href: "https://www.linkedin.com/in/the-vinh-vuong-6a54533a7/",
