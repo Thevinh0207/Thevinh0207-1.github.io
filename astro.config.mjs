@@ -5,10 +5,10 @@ import icon from 'astro-icon';
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://Thevinh0207.github.io",
-  'base': '/Thevinh0207-1.github.io/',
+  site: 'https://thevinh0207.github.io',
+  base: '/Thevinh0207-1.github.io/',
   integrations: [icon()],
   vite: {
-    plugins: [tailwindcss()]
-  }
+    plugins: [tailwindcss()],
+  },
 });
